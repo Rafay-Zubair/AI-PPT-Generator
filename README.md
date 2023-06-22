@@ -1,10 +1,10 @@
 # AIM-Internship
 Contains the code and documents for the PPT Generation Project. 
 
-# How to get started
+## How to get started
 use the following command
 ```
-$ git clone https://github.com/Rafay-Zubair/AIM-Internship.git
+git clone https://github.com/Rafay-Zubair/AIM-Internship.git
 ```
 
 There are two models in the FalconLLM file.
